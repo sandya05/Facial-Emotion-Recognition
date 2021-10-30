@@ -6,7 +6,7 @@ http://www.mediafire.com/folder/trbjv7bysiycl/challenges-in-representation-learn
 
 # Packages Required
 ### Pandas 
-Numpy
-Keras
-Tensorflow
-OpenCV
+### Numpy
+### Keras
+### Tensorflow
+### OpenCV
