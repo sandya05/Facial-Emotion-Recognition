@@ -5,7 +5,7 @@ Facial emotion recognition is one of the most interesting areas where many resea
 http://www.mediafire.com/folder/trbjv7bysiycl/challenges-in-representation-learning-facial-expression-recognition-challenge
 
 # Packages Required
-Pandas /n
+### Pandas 
 Numpy
 Keras
 Tensorflow
